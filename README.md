@@ -6,5 +6,6 @@ If you're using Ubuntu just run:
 ```
 wget -qO- https://raw.githubusercontent.com/Q-back/npm-sudo-fix-ubuntu/master/npm-sudo-fix.sh | bash
 ```
+**do not run this command with sudo** because it won't fix anything in this case.
 # Do it on your own risk
 I didn't care when I was creating the script, I've used in only on my virtual machine for one project.
